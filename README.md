@@ -20,4 +20,6 @@ Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/](https:/
 
 Demo home page:
 
-![demo]()
+![demo](screenshot1.png)
+
+![demo](screenshot2.png)
