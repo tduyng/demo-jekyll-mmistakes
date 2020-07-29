@@ -1,6 +1,8 @@
 # Demo Jekyll with mmistakes theme
 
-This is a demo static site generator using Jekyll and mmistakes theme
+This is a demo static site generator using Jekyll and mmistakes theme.
+
+Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mistakes/](https://tienduy-nguyen.github.io/demo-jekyll-mistakes/)
 
 ## How to use
 
@@ -14,3 +16,7 @@ This is a demo static site generator using Jekyll and mmistakes theme
 - Jekyll website: [jekyllrb.com](https://jekyllrb.com/)
 - Minimal mistakes theme [source mmistakes jekyll](https://github.com/mmistakes)
 - Minimal mistakes guide [minimal-mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+
+Demo home page:
+
