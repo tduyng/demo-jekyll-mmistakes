@@ -2,7 +2,7 @@
 
 This is a demo static site generator using Jekyll and mmistakes theme.
 
-Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mistakes/](https://tienduy-nguyen.github.io/demo-jekyll-mistakes/)
+Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/](https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/)
 
 ## How to use
 
