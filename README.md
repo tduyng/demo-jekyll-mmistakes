@@ -20,3 +20,4 @@ Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mistakes/](https://
 
 Demo home page:
 
+![demo]()
