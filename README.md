@@ -4,6 +4,10 @@ This is a demo static site generator using Jekyll and mmistakes theme.
 
 Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/](https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/)
 
+Medium article: [https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08](https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08)
+
+My blog article: [https://blog.adev42.com/build-your-personal-website-without-spending-any-money-using-jekyll-and-github-pages](https://blog.adev42.com/build-your-personal-website-without-spending-any-money-using-jekyll-and-github-pages)
+
 ## How to use
 
 - Clone this repo with `git clone`
