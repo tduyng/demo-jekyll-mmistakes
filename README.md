@@ -22,7 +22,7 @@ My blog post: [https://blog.adev42.com/build-your-personal-website-without-spend
 - Minimal mistakes guide [minimal-mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 
-Demo home page:
+## Demo home page
 
 ![demo](screenshot1.png)
 
