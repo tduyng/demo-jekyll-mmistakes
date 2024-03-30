@@ -2,11 +2,11 @@
 
 This is a demo static site generator using Jekyll and mmistakes theme.
 
-Demo online at [https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/](https://tienduy-nguyen.github.io/demo-jekyll-mmistakes/)
+Demo online at [https://tduyng.github.io/demo-jekyll-mmistakes/](https://tduyng.github.io/demo-jekyll-mmistakes/)
 
 My Medium post: [https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08](https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08)
 
-My blog post: [https://blog.adev42.com/build-your-personal-website-without-spending-any-money-using-jekyll-and-github-pages](https://blog.adev42.com/build-your-personal-website-without-spending-any-money-using-jekyll-and-github-pages)
+[My blog post](https://tduyng.github.io/blog/build-your-personal-website-without-spending-any-money-using-jekyll-and-github-pages)
 
 ## How to use
 
